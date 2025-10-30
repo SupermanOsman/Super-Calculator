@@ -1,2 +1,2 @@
-# Super-Calculator
-Super Calculator is super
+Osman Emin Çamyar
+16008125061
